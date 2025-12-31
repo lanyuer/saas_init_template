@@ -24,7 +24,7 @@ import {
   Building2,
   Menu,
 } from "lucide-react";
-import { cn } from "@saas/utils";
+import { cn } from "@saas/core";
 
 interface User {
   id: string;

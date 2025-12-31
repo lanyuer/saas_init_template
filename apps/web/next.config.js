@@ -6,7 +6,7 @@ const nextConfig = {
     "@saas/db",
     "@saas/auth",
     "@saas/types",
-    "@saas/utils",
+    "@saas/core",
   ],
   experimental: {
     serverActions: {
